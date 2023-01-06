@@ -215,6 +215,7 @@ body
     padding: 5px 10px;
     text-align: center;
     display: none;
+    background-color: transparent;
 }
 
 .resultado:valid{
